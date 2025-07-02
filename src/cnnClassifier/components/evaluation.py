@@ -11,7 +11,10 @@ from pathlib import Path
 from cnnClassifier.entity.config_entity import EvaluationConfig
 
 from cnnClassifier.utils.common import save_json
- 
+
+import dagshub
+
+dagshub.init(repo_owner='kanthibushan', repo_name='kidney_disease_classification_dvc_mlflow', mlflow=True)
  
 class Evaluation:
 
