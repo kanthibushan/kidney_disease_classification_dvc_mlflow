@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/8d08e4dac5594551b78f1c3349b2b54e/artifacts
+end_time: 1751341691374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d08e4dac5594551b78f1c3349b2b54e
+run_name: lyrical-bee-500
+run_uuid: 8d08e4dac5594551b78f1c3349b2b54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751341671479
+status: 3
+tags: []
+user_id: kmyre

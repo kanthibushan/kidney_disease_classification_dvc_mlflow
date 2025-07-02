@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/813fcf7821ad44148bff48fe2fa63339/artifacts
+end_time: 1751423781152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 813fcf7821ad44148bff48fe2fa63339
+run_name: flawless-quail-989
+run_uuid: 813fcf7821ad44148bff48fe2fa63339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751423754685
+status: 3
+tags: []
+user_id: kmyre

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/6d19b41c205c4603bc51f7ec179008ae/artifacts
+end_time: 1751338722489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d19b41c205c4603bc51f7ec179008ae
+run_name: loud-mule-23
+run_uuid: 6d19b41c205c4603bc51f7ec179008ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751338703585
+status: 4
+tags: []
+user_id: kmyre

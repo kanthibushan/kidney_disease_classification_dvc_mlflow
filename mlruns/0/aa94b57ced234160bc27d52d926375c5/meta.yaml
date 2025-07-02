@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/aa94b57ced234160bc27d52d926375c5/artifacts
+end_time: 1751423417127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa94b57ced234160bc27d52d926375c5
+run_name: handsome-cat-967
+run_uuid: aa94b57ced234160bc27d52d926375c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751423397698
+status: 3
+tags: []
+user_id: kmyre

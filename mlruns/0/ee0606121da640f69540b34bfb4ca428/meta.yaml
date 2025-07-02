@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/ee0606121da640f69540b34bfb4ca428/artifacts
+end_time: 1751339647816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee0606121da640f69540b34bfb4ca428
+run_name: flawless-crab-671
+run_uuid: ee0606121da640f69540b34bfb4ca428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751339627620
+status: 3
+tags: []
+user_id: kmyre

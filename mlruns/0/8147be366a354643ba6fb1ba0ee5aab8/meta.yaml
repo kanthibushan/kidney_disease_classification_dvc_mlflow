@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/8147be366a354643ba6fb1ba0ee5aab8/artifacts
+end_time: 1751341440798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8147be366a354643ba6fb1ba0ee5aab8
+run_name: sassy-bug-838
+run_uuid: 8147be366a354643ba6fb1ba0ee5aab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751341422881
+status: 3
+tags: []
+user_id: kmyre

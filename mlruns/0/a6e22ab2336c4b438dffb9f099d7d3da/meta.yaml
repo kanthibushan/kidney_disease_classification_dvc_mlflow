@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/a6e22ab2336c4b438dffb9f099d7d3da/artifacts
+end_time: 1751340499852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e22ab2336c4b438dffb9f099d7d3da
+run_name: painted-kite-946
+run_uuid: a6e22ab2336c4b438dffb9f099d7d3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751340480001
+status: 3
+tags: []
+user_id: kmyre

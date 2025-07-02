@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/1f8f300366aa446786b6fe659d6d1573/artifacts
+end_time: 1751339247188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f8f300366aa446786b6fe659d6d1573
+run_name: learned-snipe-606
+run_uuid: 1f8f300366aa446786b6fe659d6d1573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751339227720
+status: 4
+tags: []
+user_id: kmyre

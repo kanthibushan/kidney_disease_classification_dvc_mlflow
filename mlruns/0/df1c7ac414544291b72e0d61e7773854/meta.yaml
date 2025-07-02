@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/df1c7ac414544291b72e0d61e7773854/artifacts
+end_time: 1751424028981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df1c7ac414544291b72e0d61e7773854
+run_name: gifted-flea-811
+run_uuid: df1c7ac414544291b72e0d61e7773854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751424009086
+status: 3
+tags: []
+user_id: kmyre
