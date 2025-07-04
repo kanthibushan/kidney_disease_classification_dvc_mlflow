@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflowproject/kidney_disease_classification_dvc_mlflow/mlruns/0/81b3cf9b9def42c2b278664f8c1651cf/artifacts
+end_time: 1751425164991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81b3cf9b9def42c2b278664f8c1651cf
+run_name: merciful-boar-963
+run_uuid: 81b3cf9b9def42c2b278664f8c1651cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751425144123
+status: 3
+tags: []
+user_id: kmyre
